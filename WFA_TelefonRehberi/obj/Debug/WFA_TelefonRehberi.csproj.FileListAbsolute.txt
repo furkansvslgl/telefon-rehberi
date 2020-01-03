@@ -1,0 +1,29 @@
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\4.DataAccess\06.11\WFA_TelefonRehberi\WFA_TelefonRehberi\bin\Debug\WFA_TelefonRehberi.exe.config
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\4.DataAccess\06.11\WFA_TelefonRehberi\WFA_TelefonRehberi\bin\Debug\WFA_TelefonRehberi.exe
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\4.DataAccess\06.11\WFA_TelefonRehberi\WFA_TelefonRehberi\bin\Debug\WFA_TelefonRehberi.pdb
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\4.DataAccess\06.11\WFA_TelefonRehberi\WFA_TelefonRehberi\bin\Debug\EntityFramework.dll
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\4.DataAccess\06.11\WFA_TelefonRehberi\WFA_TelefonRehberi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\4.DataAccess\06.11\WFA_TelefonRehberi\WFA_TelefonRehberi\bin\Debug\EntityFramework.xml
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\4.DataAccess\06.11\WFA_TelefonRehberi\WFA_TelefonRehberi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\4.DataAccess\06.11\WFA_TelefonRehberi\WFA_TelefonRehberi\obj\Debug\WFA_TelefonRehberi.csprojAssemblyReference.cache
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\4.DataAccess\06.11\WFA_TelefonRehberi\WFA_TelefonRehberi\obj\Debug\WFA_TelefonRehberi.Form1.resources
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\4.DataAccess\06.11\WFA_TelefonRehberi\WFA_TelefonRehberi\obj\Debug\WFA_TelefonRehberi.Properties.Resources.resources
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\4.DataAccess\06.11\WFA_TelefonRehberi\WFA_TelefonRehberi\obj\Debug\WFA_TelefonRehberi.csproj.GenerateResource.cache
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\4.DataAccess\06.11\WFA_TelefonRehberi\WFA_TelefonRehberi\obj\Debug\WFA_TelefonRehberi.csproj.CoreCompileInputs.cache
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\4.DataAccess\06.11\WFA_TelefonRehberi\WFA_TelefonRehberi\obj\Debug\WFA_TelefonRehberi.csproj.CopyComplete
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\4.DataAccess\06.11\WFA_TelefonRehberi\WFA_TelefonRehberi\obj\Debug\WFA_TelefonRehberi.exe
+C:\Users\fatihgunalp\Google Drive\Sınıflar\Kadıköy\YMS3133\4.DataAccess\06.11\WFA_TelefonRehberi\WFA_TelefonRehberi\obj\Debug\WFA_TelefonRehberi.pdb
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\06.11.2019\WFA_TelefonRehberi-20191106T144416Z-001\WFA_TelefonRehberi\WFA_TelefonRehberi\bin\Debug\WFA_TelefonRehberi.exe.config
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\06.11.2019\WFA_TelefonRehberi-20191106T144416Z-001\WFA_TelefonRehberi\WFA_TelefonRehberi\bin\Debug\WFA_TelefonRehberi.exe
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\06.11.2019\WFA_TelefonRehberi-20191106T144416Z-001\WFA_TelefonRehberi\WFA_TelefonRehberi\bin\Debug\WFA_TelefonRehberi.pdb
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\06.11.2019\WFA_TelefonRehberi-20191106T144416Z-001\WFA_TelefonRehberi\WFA_TelefonRehberi\bin\Debug\EntityFramework.dll
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\06.11.2019\WFA_TelefonRehberi-20191106T144416Z-001\WFA_TelefonRehberi\WFA_TelefonRehberi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\06.11.2019\WFA_TelefonRehberi-20191106T144416Z-001\WFA_TelefonRehberi\WFA_TelefonRehberi\bin\Debug\EntityFramework.xml
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\06.11.2019\WFA_TelefonRehberi-20191106T144416Z-001\WFA_TelefonRehberi\WFA_TelefonRehberi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\06.11.2019\WFA_TelefonRehberi-20191106T144416Z-001\WFA_TelefonRehberi\WFA_TelefonRehberi\obj\Debug\WFA_TelefonRehberi.csprojAssemblyReference.cache
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\06.11.2019\WFA_TelefonRehberi-20191106T144416Z-001\WFA_TelefonRehberi\WFA_TelefonRehberi\obj\Debug\WFA_TelefonRehberi.Form1.resources
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\06.11.2019\WFA_TelefonRehberi-20191106T144416Z-001\WFA_TelefonRehberi\WFA_TelefonRehberi\obj\Debug\WFA_TelefonRehberi.Properties.Resources.resources
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\06.11.2019\WFA_TelefonRehberi-20191106T144416Z-001\WFA_TelefonRehberi\WFA_TelefonRehberi\obj\Debug\WFA_TelefonRehberi.csproj.GenerateResource.cache
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\06.11.2019\WFA_TelefonRehberi-20191106T144416Z-001\WFA_TelefonRehberi\WFA_TelefonRehberi\obj\Debug\WFA_TelefonRehberi.csproj.CopyComplete
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\06.11.2019\WFA_TelefonRehberi-20191106T144416Z-001\WFA_TelefonRehberi\WFA_TelefonRehberi\obj\Debug\WFA_TelefonRehberi.exe
+C:\Users\FATIH SIVASLIOGLU\Desktop\bilge adam\c#\06.11.2019\WFA_TelefonRehberi-20191106T144416Z-001\WFA_TelefonRehberi\WFA_TelefonRehberi\obj\Debug\WFA_TelefonRehberi.pdb
